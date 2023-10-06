@@ -1,0 +1,37 @@
+body {
+  background-color: #f0f8ff; 
+}
+
+h1 {
+  color: #000080; 
+}
+
+.btn-primary {
+  background-color: #000080; 
+}
+
+.btn-primary:hover {
+  background-color: #001F3F; 
+}
+
+.table thead th {
+  background-color: #000080;
+  color: #ffffff; 
+}
+
+.table tbody td {
+  background-color: #f0f8ff; 
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: #e0f0ff; 
+}
+
+.table-striped tbody tr:nth-of-type(even) {
+  background-color: #f0f8ff; 
+}
+
+
+#novoProdutoBtn {
+  margin-top: 20px;
+}
